@@ -13,3 +13,10 @@ h2, h3{
 	color:brown;
 	text-align: right;
 }
+
+<style type = 'text/css'>
+a:link{color:gray;}
+a:visited{color:black;}
+a:hover{color:red;}
+a:active{color:yellow}
+</style>
