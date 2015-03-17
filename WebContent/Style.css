@@ -1,0 +1,15 @@
+h2, h3{
+	font-family: "¸¼Àº°íµñ";
+	color:yellow;
+	text-align: right;
+}
+
+.testclass{
+	color : blue;
+	text-align: center;
+}
+
+#testid{
+	color:brown;
+	text-align: right;
+}
